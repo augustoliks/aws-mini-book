@@ -7,7 +7,7 @@ repo_url: https://github.com/augustoliks/aws-mini-book
 edit_uri: ''
 
 nav:
-  - Cloud Concepts: 01-concepts/cloud-concepts.md
+  - 01. Cloud Concepts: 01-concepts/cloud-concepts.md
 
 theme:
   language: en

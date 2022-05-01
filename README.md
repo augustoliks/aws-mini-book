@@ -1,4 +1,4 @@
-[![Github Pages](https://github.com/augustoliks/aws-mini-book/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/augustoliks/aws-mini-book/actions/workflows/ci.yml)
+[![Github Pages](https://github.com/augustoliks/aws-mini-book/actions/workflows/deploy-contents-to-github-pages.yml/badge.svg?branch=main)](https://github.com/augustoliks/aws-mini-book/actions/workflows/deploy-contents-to-github-pages.yml)
 
 # aws-mini-book
 

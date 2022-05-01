@@ -6,7 +6,7 @@ AWS cloud concepts studies guide.
 
 The repository was created to centralize informations and notes about the principal components of the AWS Cloud Provider. The objective this project is provides a solid base to prepare students for AWS certificates exams.
 
-The repository is an open initiative, collaborate with your PR :smile:
+The repository is an open initiative, collaborate with your PR :smile: :rocket:
 
 The content is written in the markdown file format. Each commit and push on `main` branch trigger a github action that transpile markdown files to modern web static files with MkDocs and provides via Github Pages.
 

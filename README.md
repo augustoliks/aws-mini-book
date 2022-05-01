@@ -1,6 +1,6 @@
-[![Github Pages](https://github.com/augustoliks/git-mini-book/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/augustoliks/git-mini-book/actions/workflows/ci.yml)
+[![Github Pages](https://github.com/augustoliks/aws-mini-book/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/augustoliks/aws-mini-book/actions/workflows/ci.yml)
 
-# git-mini-book
+# aws-mini-book
 
 Repositório para fins de estudo, criado para centralizar o conteúdo necessário para se adquirir proficiência com a ferramenta Git. 
 
@@ -8,17 +8,17 @@ O presente conteúdo deste projeto, foca em ser objetivo pra quem lê. As explic
 
 Este repositório é uma iniciativa para a criação de contéudo de forma colaborativa, Pull Requests são bem vindos!
 
-**O projeto está em desenvolvimento**, porém o atual conteúdo está acessível em: https://augustoliks.github.io/git-mini-book/ 
+**O projeto está em desenvolvimento**, porém o atual conteúdo está acessível em: https://augustoliks.github.io/aws-mini-book/ 
 
 ## Guia de Colaboração
 
-O conteúdo do `git-mini-book` é criado sob a formatação [Markdown](https://pt.wikipedia.org/wiki/Markdown), e os arquivos estáticos são gerados com o framework [MkDocs](https://www.mkdocs.org/).
+O conteúdo do `aws-mini-book` é criado sob a formatação [Markdown](https://pt.wikipedia.org/wiki/Markdown), e os arquivos estáticos são gerados com o framework [MkDocs](https://www.mkdocs.org/).
 
 A estruta dos arquivos do projeto está padronizada no seguinte *layout*:
 
 ```shell
 .
-├── docs                # Diretório base dos conteúdos do git-mini-book 
+├── docs                # Diretório base dos conteúdos do aws-mini-book 
 │   ├── index.md        # Página inicial do projeto
 │   ├── git             # Diretório com o conteúdo da seção: Git
 │   │   ├── *.md        # Arquivos seperados conforme as subseções

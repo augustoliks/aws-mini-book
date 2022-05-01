@@ -10,7 +10,7 @@ nav:
   - Cloud Concepts: 01-concepts/cloud-concepts.md
 
 theme:
-  language: pt
+  language: en
   name: material
   logo: aws-logo.svg
   favicon: aws-logo.svg

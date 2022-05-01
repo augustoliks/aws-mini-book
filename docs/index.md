@@ -1,4 +1,4 @@
-# Welcoma to aws-mini-book
+# Welcome to aws-mini-book
 
 AWS cloud concepts studies guide. 
 

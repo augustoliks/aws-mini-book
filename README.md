@@ -2,19 +2,21 @@
 
 # aws-mini-book
 
-Repositório para fins de estudo, criado para centralizar o conteúdo necessário para se adquirir proficiência com a ferramenta Git. 
+AWS cloud concepts studies guide. 
 
-O presente conteúdo deste projeto, foca em ser objetivo pra quem lê. As explicações visam atender o básico necessário para compreender como se utliza a ferramenta, assim como os seus benefícios.
+The repository was created to centralized informations and notes about AWS. The objective of the content is provides a solid base to prepare students for AWS certificates exams.
 
-Este repositório é uma iniciativa para a criação de contéudo de forma colaborativa, Pull Requests são bem vindos!
+The repository is a open initiave, colabore with your PR :smile:
 
-**O projeto está em desenvolvimento**, porém o atual conteúdo está acessível em: https://augustoliks.github.io/aws-mini-book/ 
+The content is acessble via Gihub Pages: https://augustoliks.github.io/aws-mini-book/ 
 
-## Guia de Colaboração
+> The project is continue development.
 
-O conteúdo do `aws-mini-book` é criado sob a formatação [Markdown](https://pt.wikipedia.org/wiki/Markdown), e os arquivos estáticos são gerados com o framework [MkDocs](https://www.mkdocs.org/).
+## Contributing
 
-A estruta dos arquivos do projeto está padronizada no seguinte *layout*:
+`aws-mini-book` content files are written with [Markdown](https://pt.wikipedia.org/wiki/Markdown) format. The static files is generates with [MkDocs](https://www.mkdocs.org/).
+
+Project directories structure pattern:
 
 ```shell
 .
@@ -37,13 +39,12 @@ A estruta dos arquivos do projeto está padronizada no seguinte *layout*:
 └── requirements.txt    # Dependencias Python, para utilização do MkDocs
 ```
 
-Para criar o ambiente de desenvolvimento, primeiro, certifique que os utilitários `make` e `python3-virtualenv` estejam instalados em seu sistema. Em seguida, com o projeto devidamente clonado em seu sistema, e em seu diretório, executar:
+The requirements to create a hot reload preview it is necessary install `make` and `python3-virtualenv`. Next, inside the cloned project, run:
 
-```bash  
-make venv       # cria ambiente virtual python e instala o MkDocs e seus plugins
-make serve      # cria um servidor web para acompanhamento dinamico das mudanças feitas localmente 
+```bash
+$ make venv       # create python3 virtualenv and install requirements (MkDocs and MkDocs plugins)
+$ make serve      # run local web server with hot reload feature
 ```
 
-Após este processo, o conteúdo estará disponível localmente, em http://127.0.0.1:8000/
+If commands above was runned with successful, the web content will be acessible: http://127.0.0.1:8000/
 
-O ambiente de desenvolvimento contém compilição de estáticos de forma dinâmica.

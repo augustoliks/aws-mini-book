@@ -8,7 +8,7 @@ The repository was created to centralize informations and notes about the princi
 
 The repository is an open initiative, collaborate with your PR :smile: :rocket:
 
-The content is written in the markdown file format. Each commit and push on `main` branch trigger a github action that transpile markdown files to modern web static files with MkDocs and provides via Github Pages.
+The content is written in the Markdown file format. Each commit and push on `main` branch trigger a [GitHub Action](https://github.com/augustoliks/aws-mini-book/actions) that transpile Markdown files to modern web static files with MkDocs and provides via Github Pages.
 
 **Check the `aws-mini-book` present content:** https://augustoliks.github.io/aws-mini-book/
 
@@ -29,16 +29,13 @@ Project directories structure pattern:
 └── requirements.txt    # python requirements file to install MkDocs and MkDocs Plugins
 ```
 
-The requirements to create a hot reload preview it is necessary install `make` and `python3-virtualenv`. Next, inside the cloned project, run:
+MkDocs provides local hot reload transpile Markdown files feature. For to configure this feature, install `make` and `python3-virtualenv` and run:
 
 ```bash
+$ git clone https://github.com/augustoliks/aws-mini-book
+$ cd aws-mini-book/
 $ make venv       # create python3 virtualenv and install requirements (MkDocs and MkDocs plugins)
 $ make serve      # run local web server with hot reload feature
 ```
 
-If commands above was runned with successful, the web content will be acessible: http://127.0.0.1:8000/
-
-<!-- ## References
-
-- link description
-> https://.com/ -->
+If the commands above were runned with successful, the web content will be accessible: http://127.0.0.1:8000/

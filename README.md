@@ -40,3 +40,7 @@ $ make serve      # run local web server with hot reload feature
 
 If commands above was runned with successful, the web content will be acessible: http://127.0.0.1:8000/
 
+<!-- ## References
+
+- link description
+> https://.com/ -->

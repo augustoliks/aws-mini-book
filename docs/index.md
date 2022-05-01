@@ -1,10 +1,7 @@
-# Bem vindo ao git-mini-book
+# Welcoma to aws-mini-book
 
-Repositório para fins de estudo, criado para centralizar o conteúdo necessário para se adquirir proficiência com a ferramenta Git. 
+AWS cloud concepts studies guide. 
 
-O presente conteúdo deste projeto, foca em ser objetivo pra quem lê. As explicações visam atender o básico necessário para compreender como se utliza a ferramenta, assim como os seus benefícios.
+The repository was created to centralized informations and notes about AWS. The objective of the content is provides a solid base to prepare students for AWS certificates exams.
 
-Este repositório é uma iniciativa para a criação de contéudo de forma colaborativa, Pull Requests são bem vindos!
-
-
-TODO: Sumário
+TODO: Summary

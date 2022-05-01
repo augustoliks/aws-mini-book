@@ -4,17 +4,15 @@
 
 AWS cloud concepts studies guide. 
 
-The repository was created to centralized informations and notes about AWS. The objective of the content is provides a solid base to prepare students for AWS certificates exams.
+The repository was created to centralize informations and notes about the principal components of the AWS Cloud Provider. The objective this project is provides a solid base to prepare students for AWS certificates exams.
 
 The repository is an open initiative, collaborate with your PR :smile:
 
-The content is acessble via Gihub Pages: https://augustoliks.github.io/aws-mini-book/ 
+The content is written in the markdown file format. Each commit and push on `main` branch trigger a github action that transpile markdown files to modern web static files with MkDocs and provides via Github Pages.
 
-> The project is continue development.
+**Check the `aws-mini-book` present content:** https://augustoliks.github.io/aws-mini-book/
 
 ## Contributing
-
-`aws-mini-book` content files are written with [Markdown](https://pt.wikipedia.org/wiki/Markdown) format. The static files is generates with [MkDocs](https://www.mkdocs.org/).
 
 Project directories structure pattern:
 

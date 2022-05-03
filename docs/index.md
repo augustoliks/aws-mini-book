@@ -6,4 +6,6 @@ The repository was created to centralize informations and notes about the princi
 
 The repository is an open initiative, collaborate with your PR :smile: :rocket:
 
-TODO: Summary
+**Topics**
+
+- [01. Cloud Concepts](./01-concepts/cloud-concepts/)

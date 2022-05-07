@@ -2,7 +2,7 @@
 
 This section will be explained the Cloud Computing Definition, Advantages and Disadvantages, Cloud models, and Deployment models.
 
-# Cloud Computing, Advantages and Disadvantages
+## Cloud Computing, Advantages and Disadvantages
 
 One good definition of Cloud is the AWS Cloud definition: _Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing._
 
@@ -40,7 +40,7 @@ One of the more important keywords of the Cloud is `possibilities`, the possibil
 
 The Cloud Computing is not the definitive better solution for all IT infrastructure cases. The Cloud Computing is more one option to deploy your infrastructure or application. Before the adopted Cloud in your infrastructure, it is necessary answer the self question `"Why problem I need to resolve?"`. If your application fits in Cloud characteristics mentioned above, **maybe** it is the better choose for your problems.
 
-# Main Cloud Models
+## Main Cloud Models
 
 The main Cloud Models are:
 
@@ -53,7 +53,7 @@ The main Cloud Models are:
 - __FaaS__ (_Function as a Service_): Function as a Service, granular services to simplify recurring tasks. For example: send email, send webhook, rsync data base.
 > Examples: AWS Data Sync, AWS Lambda.
 
-# Main Deployment Models
+## Main Deployment Models
 
 The main Deployment Models are:
 
@@ -69,7 +69,7 @@ The main Deployment Models are:
 
 - __Community__: Custom Cloud architecture is created by corporations foe to provide the clients, the flexibility of the more one __Cloud Public__ and __Private Cloud__ features. 
 
-# References
+## References
 
 - AWS - Cloud Computing Definition
 > - [https://aws.amazon.com/what-is-cloud-computing/?nc1=h_ls](https://aws.amazon.com/what-is-cloud-computing/?nc1=h_ls)

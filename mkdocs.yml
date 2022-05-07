@@ -7,13 +7,15 @@ repo_url: https://github.com/augustoliks/aws-mini-book
 edit_uri: ''
 
 nav:
-  - 01. Cloud Concepts: 01-concepts/cloud-concepts.md
+  - 01. Cloud Concepts: 01-cloud-concepts.md
+  - 02. Fundation: 02-foundation.md
+  - Extra: 99-extra.md
 
 theme:
   language: en
   name: material
-  logo: aws-logo.svg
-  favicon: aws-logo.svg
+  logo: img/00-aws-logo.svg
+  favicon: img/00-aws-logo.svg
   palette:
     - scheme: default
       primary: teal

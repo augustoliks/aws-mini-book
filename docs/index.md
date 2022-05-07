@@ -8,4 +8,11 @@ The repository is an open initiative, collaborate with your PR :smile: :rocket:
 
 **Topics**
 
-- [01. Cloud Concepts](./01-concepts/cloud-concepts/)
+- [01. Cloud Concepts](./01-cloud-concepts/)
+> Basic cloud concepts, advantages and disadvantages and Cloud Models.
+
+- [02. Foundation](./02-foundation/)
+> AWS Organizations best pratices, root account, master account.
+
+- [Extra](./99-extra/)
+> CLI tools, Projects

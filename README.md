@@ -18,15 +18,14 @@ Project directories structure pattern:
 
 ```shell
 .
-├── docs                # parente directory of the contents files 
-│   ├── index.md        # first site page
-│   ├── <SECTION>       # section files directory
-│   │   ├── *.md        # files separate by subsections according
-│   │   └── img         # image assets directories
-│   │       └── ...     
-├── Makefile            # scripts to create local mkdocs web server   
-├── mkdocs.yml          # MkDocs manifest file
-└── requirements.txt    # python requirements file to install MkDocs and MkDocs Plugins
+├── docs                             # parente directory of the contents files 
+│   ├── index.md                     # first site page
+|   ├── <SECTION>.md                 # files separate by subsections according
+│   └── img                          # image assets directories
+│       └── <SECTION-NUMBER-PREFIX>-<IMAGE-NAME>.*  
+├── Makefile                         # scripts to create local mkdocs web server   
+├── mkdocs.yml                       # MkDocs manifest file
+└── requirements.txt                 # python requirements file to install MkDocs and MkDocs Plugins
 ```
 
 MkDocs provides local hot reload transpile Markdown files feature. For to configure this feature, install `make` and `python3-virtualenv` and run:

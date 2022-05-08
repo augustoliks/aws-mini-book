@@ -8,8 +8,9 @@ edit_uri: ''
 
 nav:
   - 01. Cloud Concepts: 01-cloud-concepts.md
-  - 02. Fundation: 02-foundation.md
-  - Extra: 99-extra.md
+  - 02. Accounts Organization: 02-accounts-organization.md
+  - CLI Tools: cli-tools.md
+  - Contributors: contributors.md
 
 theme:
   language: en

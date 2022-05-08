@@ -11,8 +11,11 @@ The repository is an open initiative, collaborate with your PR :smile: :rocket:
 - [01. Cloud Concepts](./01-cloud-concepts/)
 > Basic cloud concepts, advantages and disadvantages and Cloud Models.
 
-- [02. Foundation](./02-foundation/)
+- [02. Accounts Organization](./02-accounts-organization/)
 > AWS Organizations best pratices, root account, master account.
 
-- [Extra](./99-extra/)
+- [cli-tools](./cli-tools/)
 > CLI tools, Projects
+
+- [Contributors](./contributors/)
+> `aws-mini-book` Contributors

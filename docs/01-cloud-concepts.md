@@ -1,5 +1,3 @@
-# Cloud Concepts
-
 This section will be explained the Cloud Computing Definition, Advantages and Disadvantages, Cloud models, and Deployment models.
 
 ## Cloud Computing, Advantages and Disadvantages

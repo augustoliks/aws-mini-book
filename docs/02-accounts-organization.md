@@ -1,5 +1,3 @@
-## Account Organization
-
 This section is about:
 
 - Accounts Foundation;

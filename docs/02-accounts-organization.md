@@ -1,12 +1,21 @@
 ## Account Organization
 
+This section is about:
+
+- Accounts Foundation;
+- AWS Accounts;
+- AWS Organization;
+- SCP - Security Control Policy;
+- Support Center Plans.
+
 ## Foundations
 
-- Important on start cloud project
-- Is not only create AWS account
-- One account is not better way to utilize AWS account
-- AWS Billing is identified by account
-- Does not exist Wrong, the wrong is not has strategy
+These important point about Accounts Foundation:
+
+- Important on init Cloud Project;
+- One account is not better way to utilize AWS Account;
+- Does not exist Wrong, the wrong is not has strategy;
+- AWS Account is cost less.
 
 ![02-account-diagram.drawio.png](img/02-account-diagram.drawio.png)
 
@@ -26,16 +35,46 @@ Hierarchical account strategy to better __Organization__ and __Security__.  This
 
 Dont be confused Master Account with Root Account. Master Account is the first account created on AWS and Root Account is the user who owns an AWS Account.
 
+__AWS Organization__ is important to create __Consolidated Billing__ feature. This feature is to centralize billing of the sub-accounts.
+
+There are two ways to create sub-account. In `AWS Organization`, you can be create newer AWS account, or invite AWS existing account. Both ways are made given email. To accepted invite from AWS existing account, it should be access `AWS Organization` menu, and click accept invite option, the accept is not be done by email.
+
+The create resource restriction can be _SCP - Security Control Policies_ that provides options to restrict resources creation to OU or Accounts.
+
 ## Account Security Pratices
 
-For all accounts, Root Accounts specially, it is recommend enable MFA.
+- Active MFA for all account, specially Root Account.
 
-For create new accounts, it is necessary one unique email. The best pratice is create email group for the team and not used person emails.
+- For create new accounts, it is necessary one unique email. The best pratice is create email group for the team and not used person emails.
 
-Add security contacts in Root Account. It is important that someone listen. 
+- Add __Alternate Contacts__ in Root Account. It is important to receive security contacts from AWS Support.
 
-## AWS Support Center
+## Accounts Support Center Plans
 
-## Create Organisation Unit
+There is differents _AWS Support Plans_ levels: 
 
-## SCP - Security Control Process
+- __Basic__ (free): Recommended if you are experimenting or testing in AWS;
+- __Developer__: Minimum recommended tier if you have production workloads in AWS;
+- __Business__ Recommended if you have production and/or business critical workloads in AWS;
+- __Enterprise__: Recommended if you have business and/or mission critical workloads in AWS.
+
+## References
+
+- AWS Account
+> - [https://aws.amazon.com/account/](https://aws.amazon.com/account/)
+
+- AWS Organizations
+> - [https://aws.amazon.com/organizations/](https://aws.amazon.com/organizations/)
+
+- AWS Support Center Plans
+> - [https://aws.amazon.com/pt/premiumsupport/plans/](https://aws.amazon.com/pt/premiumsupport/plans/)
+
+- AWS Landing Zone
+> - [https://aws.amazon.com/solutions/aws-landing-zone/](https://aws.amazon.com/solutions/aws-landing-zone/)
+
+- AWS Billing
+> - [https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/useconsolidatedbilling-procedure.html](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/useconsolidatedbilling-procedure.html)
+
+- AWS SCP - Service Control Policies
+> - Reference: [https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scp.html](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scp.html)
+> - Example: [https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_example-scps.html](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_example-scps.html)

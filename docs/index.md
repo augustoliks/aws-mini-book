@@ -14,7 +14,7 @@ The repository is an open initiative, collaborate with your PR :smile: :rocket:
 - [02. Accounts Organization](./02-accounts-organization/)
 > AWS Organizations best pratices, root account, master account.
 
-- [cli-tools](./cli-tools/)
+- [AWS Awesome (Utils CLI Tools To Interact AWS Cloud Provider)](./cli-tools/)
 > CLI tools, Projects
 
 - [Contributors](./contributors/)

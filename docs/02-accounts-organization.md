@@ -35,7 +35,7 @@ Dont be confused Master Account with Root Account. Master Account is the first a
 
 __AWS Organization__ is important to create __Consolidated Billing__ feature. This feature is to centralize billing of the sub-accounts.
 
-There are two ways to create sub-account. In `AWS Organization`, you can be create newer AWS account, or invite AWS existing account. Both ways are made given email. To accepted invite from AWS existing account, it should be access `AWS Organization` menu, and click accept invite option, the accept is not be done by email.
+There are two ways to create sub-account. In `AWS Organization`, you can be create newer AWS account, or invite AWS existing account. Both ways are made given email. To accepted invite from AWS existing account, in console of the Existing Account, it should be access `AWS Organization` menu, and click accept invite option, the accept is not be done by email.
 
 The create resource restriction can be _SCP - Security Control Policies_ that provides options to restrict resources creation to OU or Accounts.
 

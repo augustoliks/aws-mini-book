@@ -14,7 +14,10 @@ The repository is an open initiative, collaborate with your PR :smile: :rocket:
 - [02. Accounts Organization](./02-accounts-organization/)
 > AWS Organizations best pratices, root account, master account.
 
-- [AWS Awesome (Utils CLI Tools To Interact AWS Cloud Provider)](./cli-tools/)
+- [03. Well Architected Framework](./03-well-architected-framework/)
+> - AWS Well Architected Framework.
+
+- [AWS Awesome](./cli-tools/)
 > CLI tools, Projects
 
 - [Contributors](./contributors/)

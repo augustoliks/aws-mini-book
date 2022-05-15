@@ -40,7 +40,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/augustoliks
+      link: https://github.com/augustoliks/aws-mini-book
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/c-neto
 

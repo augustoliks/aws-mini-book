@@ -7,4 +7,4 @@
 > [https://localstack.cloud/](https://localstack.cloud/)
 
 - __aws-shell:__ The interactive productivity booster for the AWS CLI:
-> - [https://github.com/awslabs/aws-shell](https://github.com/awslabs/aws-shell)
+> [https://github.com/awslabs/aws-shell](https://github.com/awslabs/aws-shell)

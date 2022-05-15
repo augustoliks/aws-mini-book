@@ -18,12 +18,8 @@
 
 ## References
 
-- AWS Well-Architected Tool
-> - https://aws.amazon.com/well-architected-tool/
+- AWS IAM Best Practices
+> - https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
 
-- AWS Well-Architected Doc
-> - https://aws.amazon.com/architecture/well-architected/
-
-- The 5 Pillars of the AWS Well-Architected Framework
-> - https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
-
+- Access keys best practices
+> - https://medium.com/@ashishrajan/aws-security-best-practices-access-keys-cloudsecurity-facb20aa0db6

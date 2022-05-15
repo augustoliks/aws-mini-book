@@ -1,6 +1,8 @@
-- TODO: What is?
-- TODO: Describe pillars
+- The AWS Well-Architected is AWS service to review the state architectural best practices and guidance.
+- The review is made through answer form;
+- It is free;
 - TODO: Describe workflow
+- TODO: Describe Pilar
 
 ## References
 

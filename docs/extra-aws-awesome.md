@@ -5,3 +5,6 @@
 
 - __Local Stack:__ A fully functional local cloud stack. Develop and test your cloud and serverless apps offline!
 > [https://localstack.cloud/](https://localstack.cloud/)
+
+- __aws-shell:__ The interactive productivity booster for the AWS CLI:
+> - https://github.com/awslabs/aws-shell

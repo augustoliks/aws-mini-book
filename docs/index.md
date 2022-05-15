@@ -17,8 +17,11 @@ The repository is an open initiative, collaborate with your PR :smile: :rocket:
 - [03. Well Architected Framework](./03-well-architected-framework/)
 > - AWS Well Architected Framework.
 
-- [AWS Awesome](./cli-tools/)
+- [04. Security, Identity & Compliance](./04-security-identity-compliance/)
+> - IAM.
+
+- [Extra - AWS Awesome](./extra-aws-awesome/)
 > CLI tools, Projects
 
-- [Contributors](./contributors/)
+- [Extra - Contributors](./extra-contributors/)
 > `aws-mini-book` Contributors

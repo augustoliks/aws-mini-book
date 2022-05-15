@@ -11,8 +11,9 @@ nav:
   - 01. Cloud Concepts: 01-cloud-concepts.md
   - 02. Accounts Organization: 02-accounts-organization.md
   - 03. Well Architected Framework: 03-well-architected-framework.md
-  - CLI Tools: cli-tools.md
-  - Contributors: contributors.md
+  - 04. Security, Identity & Compliance: 04-security-identity-compliance.md
+  - Extra - AWS Awesome: extra-aws-awesome.md
+  - Extra - Page Contributors: extra-contributors.md
 
 theme:
   language: en

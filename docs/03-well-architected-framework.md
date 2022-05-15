@@ -1,3 +1,7 @@
+- TODO: What is?
+- TODO: Describe pillars
+- TODO: Describe workflow
+
 ## References
 
 - AWS Well-Architected Tool
